@@ -10,7 +10,7 @@ function TeacherItem() {
       <header>
         <img src="https://avatars1.githubusercontent.com/u/7094035?s=460&v=4" alt="" />
         <div>
-          <strong>Willian Marciel</strong>
+          <strong>Fabricio Cavalcante</strong>
           <span>Química</span>
         </div>
       </header>
