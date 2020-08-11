@@ -53,6 +53,12 @@ $ cd proffy/backend
 
 # Install dependencies
 $ yarn install
+
+# Go into the repository
+$ cd proffy/frontend
+
+# Install dependencies
+$ yarn install
 ```
 
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
